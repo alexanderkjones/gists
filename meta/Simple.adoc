@@ -1,8 +1,6 @@
 = BIP Mite Treatment Prototype Network Domain
 
 //hide
-//setup
-//output
 [source,cypher]
 ----
 CREATE (n{name:'neo4j'})-[:LIKES]->({name:'complex data'})
