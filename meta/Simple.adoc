@@ -1,8 +1,13 @@
 = BIP Mite Treatment Prototype Network Domain
 
-You create a GraphGist by creating a https://gist.github.com/[GitHub Gist] in http://asciidoctor.org/docs/asciidoc-quick-reference/[AsciiDoc] and enter the URL to it in the form on this page.
-
-Click on the Page Source button in the menu to see the source for this GraphGist!
+//hide
+//setup
+//output
+[source,cypher]
+----
+CREATE (n{name:'neo4j'})-[:LIKES]->({name:'complex data'})
+RETURN n.name
+----
 
 == Include a query console
 
