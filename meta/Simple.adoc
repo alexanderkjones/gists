@@ -1,4 +1,4 @@
-= A simple GraphGist
+= BIP Mite Treatment Prototype Network Domain Model
 
 You create a GraphGist by creating a https://gist.github.com/[GitHub Gist] in http://asciidoctor.org/docs/asciidoc-quick-reference/[AsciiDoc] and enter the URL to it in the form on this page.
 
